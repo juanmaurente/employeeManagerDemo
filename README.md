@@ -11,7 +11,7 @@ The View is responsible for displaying the data to the user. In this project, th
 The Controller handles the communication between the Model and the View, and it's implemented using Spring's RestController.
 The project also uses Spring Data JPA to interact with a MySQL database. JPA stands for Java Persistence API, and it's a standard API for persisting Java objects to a relational database.
 
-##Getting Started
+## Getting Started
 Here are the steps you need to follow to run this project on your local machine:
 
 1. Clone the repository to your local machine.
