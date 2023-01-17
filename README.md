@@ -1,9 +1,9 @@
 # employeeManagerDemo
 
-##Introduction
+## Introduction
 This project is a simple CRUD application that allows you to perform basic operations (create, read, update, and delete) on employees of a company. It was developed using Java and Spring framework.
 
-##Architecture
+## Architecture
 The project is based on the Model-View-Controller (MVC) architectural pattern, which separates the application logic into three interconnected components: the Model, the View, and the Controller.
 
 The Model represents the data and the business logic of the application. In this project, the Employee class represents the data model of the application.
